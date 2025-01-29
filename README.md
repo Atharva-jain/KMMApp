@@ -40,5 +40,5 @@ The app requires:
 - `MainActivity.kt`: Handles theme switching, alarm setup, and ringtone selection.
 - `AlarmReceiver.kt`: A BroadcastReceiver to handle alarm triggers.
 - `activity_main.xml`: Layout for the main activity.
-- `widget_layout.xml`: Layout for the home screen widget.
+
 
